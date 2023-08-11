@@ -139,6 +139,9 @@ body {
 #banner h2, #banner p {
   color: #fff;
 }
+#banner p {
+  margin-top: 0;
+}
 
 /* PRODUCT1 */
 #product1 {
