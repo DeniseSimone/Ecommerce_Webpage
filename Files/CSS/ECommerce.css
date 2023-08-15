@@ -592,7 +592,8 @@ footer .copyright {
   }
 
   #hero {
-    height: 50vh;
+    /* height: 50vh; */
+    min-height: 60vh;
   }
   #hero h1 {
     text-align: center;
